@@ -1,0 +1,1 @@
+Tailwind new class add command : npx tailwindcss@2 build src/index.css -c tailwind.config.js -o src/output.css
